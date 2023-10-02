@@ -11,4 +11,4 @@ A TeKanAid Academy Playground to practice Kubernetes skills.
 - alias kgn="kubectl get all --all-namespaces"
 - alias kdel="kubectl delete"
 - alias kd="kubectl describe"
-- alias kg="kubectl get"
+- alias kg="kubectl get"# K8s
